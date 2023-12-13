@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+p{
+    font-size: 35px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+div .butt{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+div .butt:hover{
+    background-color: green;
+}
